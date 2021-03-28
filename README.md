@@ -16,3 +16,5 @@ just ```node idk.js``` after everything and you're done lol
 small project so dont expect it to be good
 
 it was intended to non admin users so yeah
+
+-shidemuri/paradino/padero
