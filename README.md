@@ -5,6 +5,7 @@ https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accoun
 
 tl;dr: if it keeps inside oauth2/dc api its safe, which is this case
 (just dont somehow manage to spam it like 300+ times/minute lol)
+**it is still against tos but not bannable as long as ^^**
 
 ### prep
 uhh discord.js-self and chalk so just do
