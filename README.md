@@ -2,6 +2,7 @@
 > bad selfbot server cloning or smth idk sfsdhgdfhkjdf
 
 https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-
+
 tl;dr: if it keeps inside oauth2/dc api its safe, which is this case
 (just dont somehow manage to spam it like 300+ times/minute lol)
 
