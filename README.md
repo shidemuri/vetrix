@@ -1,6 +1,8 @@
 # vetrix
 > bad selfbot server cloning or smth idk sfsdhgdfhkjdf
 
+(prob patched)
+
 https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-
 
 tl;dr: if it keeps inside oauth2/dc api its safe, which is this case
