@@ -1,7 +1,9 @@
 # vetrix
 > bad selfbot server cloning or smth idk sfsdhgdfhkjdf
 
-(prob patched)
+> 
+> Disclaimer: Due to Gateway Intents being a default thing now, this project is no longer functional on client-side
+> 
 
 https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-
 
